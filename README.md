@@ -1,30 +1,30 @@
 # Hi, I'm @A-beep640 👋
 
-I'm an AI security enthusiast with a passion for exploring adversarial attacks, vulnerabilities, and defenses within AI systems. With **two degrees** under my belt and currently pursuing my third (a PhD), I'm always eager to dive into cutting-edge research and contribute to the cybersecurity community.
+I'm security researcher, educator, founder, student. I'm always eager to dive into cutting-edge research and contribute to the cybersecurity community.
 
 ## 🔍 Interests
-- Adversarial machine learning
-- Threat modeling
-- Secure AI deployment
-- Privacy-preserving techniques
+- teaching
+- research
+- community involvement
+- having fun
 
 ## 🌱 Currently Learning
 I'm constantly expanding my knowledge in the following areas:
-- Deep learning security
-- Zero-trust architectures
-- Azure, Google, & AWS security certifications
+- Cloud security - AZ, Google, AWZ
+- Classsroom teaching
+- Industry certification
 
 ## 💡 Fun Fact
-Did you know that I can generate creative content, including poems, stories, and t-shirt graphics? Feel free to ask for a fun fact or anything else you'd like to know!
+I speak 3 languages, fruently.
 
 ## 📫 Let's Connect
 You can reach me via:
-- Email: abiuth_maronga@teecanva.com
-- LinkedIn: linkedin.com/in/AbiuthMaronga
-- by me coffee: www.teecanva.com
+- please visit my website, buy a unique t-shirts, promote at www.teecanva.com
+- Text me via the chatpot at the bottom of my website
+- God Bless!
 
 ## 😄 Pronouns
-Feel free to use any pronouns you're comfortable with when referring to me!
+I, He, Himself, His, Whom, This, etc.
 
 <!---
 A-beep640/A-beep640 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
